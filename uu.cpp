@@ -46,7 +46,7 @@
          the secrets of the llama <abbr 
          title="Nashon The Man">NTM</abbr>, to be an 
          outstanding achievement, Molly <em>did</em> think 
-         she had something better to do.
+         she had something better to doo.
     </p>
 
 
