@@ -38,7 +38,7 @@
     </form
 
 
-    <p>She had spent the last ten years in this room, 
+    <p>She has spent the last ten years in this room, 
          sitting under a poster with an Oscar Wilde quote 
          proclaiming that <q>Work is the refuge of 
          people who have nothing better to do</q>. Although 
