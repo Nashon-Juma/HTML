@@ -40,7 +40,7 @@
 
     <p>She has spent the last ten years in this room, 
          sitting under a poster with an Oscar Wilde quote 
-         proclaiming that <q>Work is the refuge of 
+         proclaiming that <q>Work is a refuge of 
          people who have nothing better to do</q>. Although 
          many considered her pioneering work, unraveling 
          the secrets of the llama <abbr 
