@@ -32,7 +32,7 @@
 
     </form>
          <form action="http://www.example.com/comments.php">
-         <p>What did you think of Nashons website?</p>
+         <p>What did you think of my website?</p>
          <textarea name="comments" cols="20" rows="4">Enter 
             your comments...</textarea>
     </form
